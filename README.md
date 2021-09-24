@@ -1,3 +1,11 @@
+# Back-End for My Flutter Project Portofolio
+
+## Description
+
+I took the Flutter Developer class from BuildWith Angga website which will also be my first Flutter project portfolio. I create a multi-platform online shoe store application using Flutter and a REST API using Laravel. You can see my front-end project documentation on my GitHub repository link below:<br><br>
+https://github.com/fadhilikhsann/flutter_e_commerce<br>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
